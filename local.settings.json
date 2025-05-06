@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "LogAnalyticsConfig": "{\"WorkspaceId\":\"\"}",
+    "SqlConnectionString": "Server=<your-sql-mi>.private.database.windows.net;
+Initial Catalog=<your-db>;
+Authentication=Active Directory Default;"
+  }
+}
